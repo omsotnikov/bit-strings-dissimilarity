@@ -10,7 +10,7 @@ pip install qiskit
 There is no need to install anything from this repository. 
 One can simply clone this repository and use python or shell scripts:
 ```sh
-git clone git@github.com:omsotnikov/test.git
+git clone git@github.com:omsotnikov/bit-strings-dissimilarity.git
 ```
 
 ## Usage
